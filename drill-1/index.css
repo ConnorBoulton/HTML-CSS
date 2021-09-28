@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d8d8d8;
+}
+
+.nav {
+    background-color: #444444;
+    width: 100%;
+    height: 150px;
+}
+
+.container {
+    background-color: #efefef;
+    height: 720px;
+    width: 85%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+footer {
+    background-color: #222222;
+    width: 85%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 100px;
+}
